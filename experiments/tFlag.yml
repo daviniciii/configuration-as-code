@@ -1,0 +1,10 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+description: this is a test flag
+labels:
+  - label1
+flag: tFlag
+availableValues:
+  - mm
+  - 11g
+value: mm
