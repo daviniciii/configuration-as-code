@@ -1,6 +1,6 @@
 ![CloudBees Feature Management](https://1ko9923xosh2dsbjsxpwqp45-wpengine.netdna-ssl.com/wp-content/themes/rollout/images/rollout_white_logo1.png)
 
-[![Integration status](https://app.rollout.io/badges/624cec08124630949333eb49)](https://app.rollout.io/app/624ce8e4211d0581238c4c8e/settings/info)
+[![Integration status](https://app.rollout.io/badges/640bfb20c1ae99559408026b)](https://app.rollout.io/app/640b5a3187baf5bdb6522053/settings/info)
 
 This repository is a YAML represnetation for Rollout configuration, it is connected (see badge for status) to Rollout service via [Rollout's github app](https://github.com/apps/rollout-io)
 Configuration as code allows the entire configuration of Rollout's state to be stored as source code. It integrates Rollout's UI with engineering existing environment. This approach brings a lot of benefits.
